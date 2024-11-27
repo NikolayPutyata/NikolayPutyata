@@ -1,4 +1,5 @@
-![Hello](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJrcjNseXN6b2dmbXM5bDhjeWpkcjEwMTE5YnlpbWppZTZpaTd4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
+![Hello](assets/gif.gif)
+
 ## Hi there! 👋 I'm Mykola
 
 I'm a full-stack developer specializing in the **MERN stack**:  
@@ -13,3 +14,7 @@ But for now, I'm writing code and building projects.😊
   
 ![Demo Screenshot](assets/market-main.png)
 
+- **🖥️ Lloyd Jeffersonr's portfolio** – Personal portfolio for developer.  
+  [🔗 GitHub Repository](https://github.com/TOR10S/script-masters) | [🌐 Live Demo](https://tor10s.github.io/script-masters/)
+
+![Demo Screenshot](assets/portfolio.png)

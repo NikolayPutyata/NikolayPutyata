@@ -5,6 +5,4 @@ I'm a full-stack developer specializing in the **MERN stack**:
 **JavaScript**, **React**, **Express**, and **MongoDB**.
 
 🌱 Once upon a time, I dreamed of living in Zanzibar and eating mangoes every day.  
-But for now, I'm happily writing code and building awesome projects!
-
-Feel free to check out my repositories, and let's connect! 😊
+But for now, I'm writing code and building projects.😊

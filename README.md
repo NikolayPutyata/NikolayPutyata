@@ -12,5 +12,4 @@ But for now, I'm writing code and building projects.😊
   [🔗 GitHub Repository](https://github.com/NikolayPutyata/Product-Shop-Ex) | [🌐 Live Demo](https://product-shop-kqk72qfl7-nikolayputyatas-projects.vercel.app/)
   
 ![Demo Screenshot](assets/market-main.png)
-![Demo Screenshot](assets/market.png)
 
